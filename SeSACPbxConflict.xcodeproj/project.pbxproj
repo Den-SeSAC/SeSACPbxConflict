@@ -52,6 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				B7F2BB492CB4D1AF00E93735 /* Bran */,
+
 				B7F2BB402CB4CCD100E93735 /* Preview Content */,
 			);
 			path = SeSACPbxConflict;
@@ -66,6 +67,7 @@
 			sourceTree = "<group>";
 		};
 		B7F2BB492CB4D1AF00E93735 /* Bran */ = {
+
 			isa = PBXGroup;
 			children = (
 				B7F2BB3A2CB4CCD000E93735 /* SeSACPbxConflictApp.swift */,
